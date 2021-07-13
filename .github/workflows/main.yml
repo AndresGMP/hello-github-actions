@@ -1,5 +1,5 @@
 on: push
-name: build
+name: action-a
 jobs:
   build:
     name: Hello world action
